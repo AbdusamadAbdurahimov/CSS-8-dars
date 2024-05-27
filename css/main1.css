@@ -1,0 +1,9 @@
+.wrap{
+    width: 1200px;
+    margin: 0 auto;
+    margin-left: 70px;
+}
+.light{
+    text-align: center;
+    left: -200px;
+}
